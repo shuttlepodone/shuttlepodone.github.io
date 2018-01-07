@@ -3,7 +3,7 @@
 */
 p{ line-height: 1em; }
 h1, h2, h3, h4{
-    color: blue;
+    color: red;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -46,7 +46,7 @@ body{
 		}
 			#nav ul li a{
 				padding: 20px;
-				background: orange;
+				background: blue;
 				color: white;
 			}
 			#nav ul li a:hover{
