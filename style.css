@@ -88,8 +88,8 @@ body{
 }
 
 #green {
-	width: 40px;
-	height: 40px;
+	width: 60px;
+	height: 60px;
 	border-radius: 100%;
 	background-color: #9DE0AD;
 	color: #008800;
@@ -103,8 +103,8 @@ body{
 }
 
 #red {
-	width: 50px;
-	height: 50px;
+	width: 60px;
+	height: 60px;
 	background-color: #eee;
 	border-radius: 2px;
 	color: #CC0000;
